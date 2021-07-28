@@ -1,0 +1,2 @@
+rootProject.name = "AndroidSourceCNReader"
+include ':app'
